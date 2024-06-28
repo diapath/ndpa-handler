@@ -40,7 +40,6 @@ annot.write_ndpa(fc, fn)
 
 ```python
 from ndpa_handler import Annotation
-import ndpa
 
 # Define a new annotation object and
 # read its associated pixel size and offset from an NDPI file:
